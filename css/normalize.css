@@ -17,7 +17,17 @@ html {
  */
 
 body {
-  margin: 5%;
+  margin-top: 3%;
+  margin-left: 25%;
+}
+
+.title {
+  font-size: 2em;
+  margin-bottom: .3em;
+}
+
+.title-big {
+  margin-top: 10%;
 }
 
 /* HTML5 display definitions
@@ -182,7 +192,8 @@ sub {
  */
 
 img {
-  border: 0;
+  border: 2;
+  margin-bottom: 2.5em;
 }
 
 /**
